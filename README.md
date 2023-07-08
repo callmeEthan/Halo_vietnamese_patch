@@ -15,5 +15,5 @@ Patch này chỉ dành cho bản **Steam**: cứ giải nén rồi ghi đè file
 Đối với bản **Microsoft Store** thì mình không biết cài, các bác tự lo đi nhé.  
 Bác nào chơi game crack thì cũng tự lo đi nhé.
 # Credit
-Biên dịch Ethan 
+Biên dịch Ethan.  
 Dựa trên patch của bạn [kecox42069](https://github.com/kecox42069/kecoxviethoa)
