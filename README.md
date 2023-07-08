@@ -8,6 +8,8 @@ Nói trước mình chỉ dịch những câu đối thoại, phụ đề trong 
 - Halo 3: chưa dịch
 
 Mình sẽ chỉ dịch ba phần Halo CE, Halo 2 và Halo 3 vì đây là ba phần hay nhất series mọi người nên trải nhiệm, cốt truyện cũng gói gọn như triology LOTR hay Star Wars original. Không có kế hoạch dịch Halo Reach, Halo 4 hay ODST.
+# Link tải
+[Link repo mới nhất](https://github.com/callmeEthan/Halo_vietnamese_patch/releases), tải file patch.zip
 # Hướng dẫn cài đặt
 Patch này chỉ dành cho bản **Steam**: cứ giải nén rồi ghi đè file vào thư mục game (nếu cần thì tạo bản sao).  
 Đối với bản **Microsoft Store** thì mình không biết cài, các bác tự lo đi nhé.  
