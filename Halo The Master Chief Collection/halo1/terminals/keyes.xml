@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>
+      </ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="75%" tts:fontFamily="sansSerif" tts:color="white" tts:textAlign="center" tts:origin="10% 80%" tts:extent="80% 15%" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="00:00:14.000" id="p0" end="00:00:25.000">$vo_terminal_ep9_line113</p>
+      <p begin="00:00:25.000" id="p1" end="00:00:33.000">$vo_terminal_ep9_line114</p>
+      <p begin="00:00:35.000" id="p2" end="00:00:40.000">$vo_terminal_ep9_line115</p>
+      <p begin="00:00:41.000" id="p3" end="00:00:43.000">$vo_terminal_ep9_line118</p>
+      <p begin="00:01:00.000" id="p4" end="00:01:03.000">$vo_terminal_ep9_line119</p>
+      <p begin="00:01:03.000" id="p5" end="00:01:10.000">$vo_terminal_ep9_line120</p>
+      <p begin="00:01:12.000" id="p6" end="00:01:19.000">$vo_terminal_ep9_line121</p>
+      <p begin="00:01:19.000" id="p7" end="00:01:23.000">$vo_terminal_ep9_line122</p>
+      <p begin="00:01:23.000" id="p8" end="00:01:30.000">$vo_terminal_ep9_line123</p>
+      <p begin="00:01:32.000" id="p9" end="00:01:33.000">$vo_terminal_ep9_line124</p>
+      <p begin="00:01:33.000" id="p10" end="00:01:35.000">$vo_terminal_ep9_line125</p>
+      <p begin="00:01:36.000" id="p11" end="00:01:37.000">$vo_terminal_ep9_line126</p>      
+      <p begin="00:01:40.000" id="p12" end="00:01:45.000">$vo_terminal_ep9_line127</p>
+      <p begin="00:01:45.000" id="p13" end="00:01:50.000">$vo_terminal_ep9_line128</p>
+      <p begin="00:01:51.000" id="p14" end="00:01:57.000">$vo_terminal_ep9_line129</p>
+      <p begin="00:01:58.000" id="p15" end="00:02:00.000">$vo_terminal_ep9_line130</p>
+      <p begin="00:02:00.000" id="p16" end="00:02:02.000">$vo_terminal_ep9_line131</p>
+      <p begin="00:02:04.000" id="p17" end="00:02:07.000">$vo_terminal_ep9_line132</p>
+      <p begin="00:02:08.000" id="p18" end="00:02:11.000">$vo_terminal_ep9_line133</p>
+      <p begin="00:02:12.000" id="p19" end="00:02:15.000">$vo_terminal_ep9_line134</p>
+      <p begin="00:02:16.000" id="p20" end="00:02:19.000">$vo_terminal_ep9_line135</p>
+      <p begin="00:02:20.000" id="p21" end="00:02:24.000">$vo_terminal_ep9_line136</p>
+      <p begin="00:02:25.000" id="p22" end="00:02:32.000">$vo_terminal_ep9_line137</p>
+      <p begin="00:02:34.000" id="p23" end="00:02:38.000">$vo_terminal_ep9_line138</p>
+      <p begin="00:02:39.000" id="p24" end="00:02:41.000">$vo_terminal_ep9_line139</p>
+      <p begin="00:02:41.000" id="p25" end="00:02:44.000">$vo_terminal_ep9_line140</p>
+      <p begin="00:02:44.000" id="p26" end="00:02:49.000">$vo_terminal_ep9_line141</p>
+      <p begin="00:02:52.000" id="p27" end="00:02:55.000">$vo_terminal_ep9_line142</p>
+      <p begin="00:02:55.000" id="p28" end="00:02:56.000">$vo_terminal_ep9_line143</p>
+      <p begin="00:02:57.000" id="p29" end="00:03:05.000">$vo_terminal_ep9_line144</p>
+      <p begin="00:03:06.000" id="p30" end="00:03:12.000">$vo_terminal_ep9_line145</p>
+      <p begin="00:03:12.000" id="p31" end="00:03:17.000">$vo_terminal_ep9_line146</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml">
+	<head>
+		<metadata>
+			<ttm:title>
+			</ttm:title>
+		</metadata>
+		<styling>
+			<style xml:id="s0" tts:backgroundColor="black"tts:fontStyle="normal" tts:fontSize="75%" tts:fontFamily="sansSerif" tts:color="cyan" tts:textAlign="center" tts:origin="10% 80%" tts:extent="80% 15%" />
+		</styling>
+	</head>
+	<body style="s0">
+		<div>
+			<p begin="00:00:29.000" id="p1" end="00:00:32.291">343 GUILTY SPARKKhá là không thể chấp nhận được.</p>
+# Việt hóa + file phụ đề bởi kecox15670 nếu bạn có reup, xin đừng chỉnh credit. Cảm ơn rất nhiều!
+			<p begin="00:01:23.380" id="p2" end="00:01:28.800">343 GUILTY SPARKXin chào! Tôi là 343 Guilty Spark, giám sát của Căn-</p>
+			<p begin="00:01:31.19" id="p3" end="00:01:33.60">343 GUILTY SPARKLoại sinh vật xấc láo!</p>
+			<p begin="00:01:50.29" id="p4" end="00:01:58.32">SANGHEILITôi dâng ngài mạng sống của tôi để đền bù cho sự thô lỗ vừa nãy. Một "Tiên tri của các vị thần" như ngài đáng lẽ ra không bao giờ phải chịu sự... láo xược từ lũ sâu bọ như thế này!</p>
+			<p begin="00:01:58.32" id="p5" end="00:02:02.60">SANGHEILITôi sẽ ném tất cả chúng xuống sương mù bên dưới vì đã dám báng bổ như vậy, và-</p>
+			<p begin="00:02:02.60" id="p6" end="00:02:07.25">343 GUILTY SPARKÔi trời. Tộc của anh đã phát triển vượt bậc trong 100.000 năm qua.</p>
+			<p begin="00:02:07.25" id="p7" end="00:02:15.16">343 GUILTY SPARKNhưng làm ơn, không có ai cần phải chết nữa đâu. Chúng ta sẽ cần tất cả các lực lượng mà chúng ta có thể tập hợp được, nếu đám Flood thoát khỏi cú nổ từ Căn cứ của tôi!</p>
+			<p begin="00:02:15.16" id="p8" end="00:02:18.60">343 GUILTY SPARKTôi cần phải nói chuyện với chỉ huy của anh ngay lập tức.</p>
+			<p begin="00:02:26.45" id="p9" end="00:02:29.00">SESA 'REFUMEEQuả là một ngày vinh quang!</p>
+			<p begin="00:02:29.00" id="p10" end="00:02:35.60">SESA 'REFUMEECác Prophet sẽ hài lòng vì chúng ta đã giải cứu một "Nhà tiên tri" khỏi sự xâm phạm của con người đối với "Đền Thánh"!</p>
+			# ... Mong rằng bạn sẽ có một cơ hội để gặp lại người mà bạn trân trọng.
+			<p begin="00:02:35.60" id="p11" end="00:02:43.50">343 GUILTY SPARKTại sao anh cứ gọi nó là một ngồi đền thế? Căn cứ của tôi là một vũ khí! Và là một thứ mà chúng tôi rất, rất cần.</p>
+			<p begin="00:02:43.50" id="p16" end="00:02:51.90">SESA 'REFUMEENhưng "Tiên tri" à... Tôi không thể hiểu ngài. Chúng tôi được người khác kể rằng những chiếc nhẫn là sự cứu rỗi của chúng tôi - một cánh cổng dẫn đến thiên đường.</p>
+			<p begin="00:02:52.20" id="p17" end="00:02:53.90">343 GUILTY SPARKKể? Bởi ai?</p>
+			<p begin="00:02:54.40" id="p18" end="00:03:05.52">343 GUILTY SPARKBất cứ ai kể với anh điều đó là kẻ ngốc - hoặc là một kẻ điên rồ đấy. Căn cứ đó là một công cụ tuyệt đẹp, được thiết kế để phá hủy mọi thứ mà Flood có thể ăn.</p>
+			<p begin="00:03:06.00" id="p19" end="00:03:07.14">SESA 'REFUMEETất cả mọi thứ...?</p>
+			<p begin="00:03:07.60" id="p19" end="00:03:18.29">343 GUILTY SPARKOh, gần như mọi thứ đó. Và nếu thậm chí một bào tử Flood sống sót sau sự phá hủy vòng nhẫn của tôi, thì giao thức yêu cầu tất cả sự sống có tri giác gần đó phải bị tiêu diệt ngay lập tức.</p>
+			<p begin="00:03:18.29" id="p20" end="00:03:22.00">343 GUILTY SPARKKhông thể để Flood lây lan được.</p>
+			<p begin="00:03:22.70" id="p22" end="00:03:27.60">343 GUILTY SPARKNhưng...tôi đang lãng phí thời gian của chúng ta. Có chắc là anh đã biết tất cả những điều này rồi không?</p>
+			<p begin="00:03:28.50" id="p23" end="00:03:32.40">SESA 'REFUMEEĐội liên lạc, ngắt hết kết nối đến hạm đội!</p>
+			<p begin="00:03:32.40" id="p24" end="00:03:38.00">SESA 'REFUMEEChúng ta sẽ không thông báo cho các Prophet về những gì ta vừa biết cho đến khi tôi nghe mọi điều mà "Nhà tiên tri" này phải nói.</p>
+			<p begin="00:03:38.50" id="p25" end="00:03:42.50">343 GUILTY SPARKTôi sẵn lòng chia sẻ những gì tôi được phép, nhưng chúng ta còn ít thời gian.</p>
+			<p begin="00:03:42.50" id="p26" end="00:03:46.90">343 GUILTY SPARKNhững gì đã được giải phóng ở đây có thể sớm phá hủy mọi thứ anh từng biết.</p>
+			<p begin="00:03:47.70" id="p27" end="00:03:53.08">SESA 'REFUMEEVề điều đó, Oracle, chúng tôi đồng ý.</p>
+		</div>
+	</body>
+</tt>
+# Việt hóa + file phụ đề bởi kecox15670 nếu bạn có reup, xin đừng chỉnh credit. Cảm ơn rất nhiều!

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>
+      </ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="75%" tts:fontFamily="sansSerif" tts:color="white" tts:textAlign="center" tts:origin="10% 80%" tts:extent="80% 15%" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="00:00:10.000" id="p0" end="00:00:11.700">$vo_terminal_ep10_line147</p>
+      <p begin="00:00:11.700" id="p1" end="00:00:25.500">$vo_terminal_ep10_line148</p>
+      <p begin="00:00:30.000" id="p2" end="00:00:42.000">$vo_terminal_ep10_line149</p>
+      <p begin="00:00:45.000" id="p3" end="00:00:48.000">$vo_terminal_ep10_line150</p>
+      <p begin="00:00:48.000" id="p4" end="00:00:56.000">$vo_terminal_ep10_line151</p>
+      <p begin="00:01:00.000" id="p5" end="00:01:08.000">$vo_terminal_ep10_line152</p>
+      <p begin="00:01:08.000" id="p6" end="00:01:29.000">$vo_terminal_ep10_line153</p>
+      <p begin="00:01:30.000" id="p7" end="00:01:40.000">$vo_terminal_ep10_line154</p>
+      <p begin="00:01:40.000" id="p8" end="00:01:48.000">$vo_terminal_ep10_line155</p>
+      <p begin="00:01:48.000" id="p9" end="00:01:54.000">$vo_terminal_ep10_line156</p>
+    </div>
+  </body>
+</tt>
