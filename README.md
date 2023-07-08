@@ -16,8 +16,8 @@ Patch này chỉ dành cho bản **Steam**: cứ giải nén rồi ghi đè file
 Đối với bản **Microsoft Store** thì mình không biết cài, các bác tự lo đi nhé.  
 Bác nào chơi game crack thì cũng tự lo đi nhé.
 ### Donate
-Nếu các bạn thích bản dịch hãy Donate để ủng hộ nhóm dịch
-Paypal: [paypalme/AnneSaph](https://www.paypal.com/paypalme/AnneSaph)
+Nếu các bạn thích bản dịch hãy Donate để ủng hộ nhóm dịch  
+Paypal: [paypalme/AnneSaph](https://www.paypal.com/paypalme/AnneSaph)  
 Momo: 0868322859 -TRAN HIEN THAO
 ### Credit
 Biên dịch Ethan.  
