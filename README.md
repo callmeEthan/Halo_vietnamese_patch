@@ -1,6 +1,8 @@
-# Halo Vietnamese patch
+# Halo MCC Vietnamese patch
 Đây là bản Việt hóa cho Halo the Master Chief Collection. Halo là một trong những tuyệt phẩm mà game thủ không nên bỏ qua.
-Bản dịch của bạn kecox42069 chưa được...chuẩn lắm nên mình sẽ dịch lại. Bản dịch bảo đảm chuẩn như phim, súc tích, ngắn gọn cho người đọc dễ hiểu, trải nghiệm cốt truyện. Mình vừa chơi vừa dịch từng câu một, cân nhắc từng vai vế, tình huống, cảm xúc nhân vật. Có thể sẽ có một vài đoạn bị bỏ qua vì trong playthrough mình không gặp phải.
+Bản dịch của bạn kecox42069 chưa được...chuẩn lắm nên mình sẽ dịch lại.
+Mình vừa chơi vừa dịch từng câu một, cân nhắc từng vai vế, tình huống, cảm xúc nhân vật. Có thể sẽ có một vài đoạn bị bỏ qua vì trong playthrough mình không gặp phải.  
+Nếu bạn gặp đoạn nào chưa dịch hãy screenshot lại gửi cho mình.  
 ### Tiến độ
 Nói trước mình chỉ dịch những câu đối thoại, phụ đề trong game. Còn giao diện, menu ect thì mình sẽ không động tới. Mấy cái extra video 343 Studio mới thêm vào mình cũng sẽ không dịch.
 - Halo Combat Evolved: hoàn thành
