@@ -3,7 +3,7 @@
 Bản dịch của bạn kecox42069 chưa được...chuẩn lắm nên mình sẽ dịch lại. Bản dịch bảo đảm chuẩn như phim, súc tích, ngắn gọn cho người đọc dễ hiểu, trải nghiệm cốt truyện. Mình vừa chơi vừa dịch từng câu một, cân nhắc từng vai vế, tình huống, cảm xúc nhân vật. Có thể sẽ có một vài đoạn bị bỏ qua vì trong playthrough mình không gặp phải.
 ### Tiến độ
 Nói trước mình chỉ dịch những câu đối thoại, phụ đề trong game. Còn giao diện, menu ect thì mình sẽ không động tới. Mấy cái extra video 343 Studio mới thêm vào mình cũng sẽ không dịch.
-- Halo Combat Evolved: đến cảnh 10 (The maw)
+- Halo Combat Evolved: hoàn thành
 - Halo 2: chưa dịch
 - Halo 3: chưa dịch
 
