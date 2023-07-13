@@ -6,7 +6,7 @@ Nếu bạn gặp đoạn nào chưa dịch hãy screenshot lại gửi cho mìn
 ### Tiến độ
 Nói trước mình chỉ dịch những câu đối thoại, phụ đề trong game. Còn giao diện, menu ect thì mình sẽ không động tới. Mấy cái extra video 343 Studio mới thêm vào mình cũng sẽ không dịch.
 - Halo Combat Evolved: hoàn thành
-- Halo 2: cảnh 7 (The Oracle)
+- Halo 2: cảnh 9 (Regret)
 - Halo 3: chưa dịch
 
 Mình sẽ chỉ dịch ba phần Halo CE, Halo 2 và Halo 3 vì đây là ba phần hay nhất series mà mọi người nên trải nghiệm, cốt truyện cũng gói gọn như triology LOTR hay Star Wars original.  
