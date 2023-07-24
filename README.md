@@ -7,7 +7,7 @@ Nếu bạn gặp đoạn nào chưa dịch hãy screenshot lại gửi cho mìn
 Nói trước mình chỉ dịch những câu đối thoại, phụ đề trong game. Còn giao diện, menu ect thì mình sẽ không động tới. Mấy cái extra video 343 Studio mới thêm vào mình cũng sẽ không dịch.
 - Halo Combat Evolved: hoàn thành
 - Halo 2: hoàn thành
-- Halo 3: chưa dịch
+- Halo 3: cảnh 7 (The Ark)
 
 Mình sẽ chỉ dịch ba phần Halo CE, Halo 2 và Halo 3 vì đây là ba phần hay nhất series mà mọi người nên trải nghiệm, cốt truyện cũng gói gọn như triology LOTR hay Star Wars original.  
 Hiện không có kế hoạch dịch Halo Reach, Halo 4 hay ODST. Lòng tốt mình tới đây là hết rồi. Mình rất là tham tiền. Donate 1 tr đi rồi mình sẽ dịch Hahaha
