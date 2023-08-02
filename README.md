@@ -1,4 +1,4 @@
-# Halo triology Vietnamese patch [Hoàn thành]
+# Halo trilogy Vietnamese patch [Hoàn thành]
 Đây là bản Việt hóa cho Halo the Master Chief Collection. Halo là một trong những tuyệt phẩm mà game thủ không nên bỏ qua.
 Bản dịch của bạn kecox42069 chưa được...chuẩn lắm nên mình dịch lại.
 Mình vừa chơi vừa dịch từng câu một, cân nhắc từng vai vế, tình huống, cảm xúc nhân vật. Có thể sẽ có một vài đoạn bị bỏ qua vì trong playthrough mình không gặp phải.  
